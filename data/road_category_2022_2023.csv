@@ -1,0 +1,7 @@
+year,road_category,accidents,persons_killed,persons_injured,accidents_share_pct,killed_share_pct,injured_share_pct,source_table,source_page,source_url
+2022,National Highways,151997,61038,144352,32.95,36.23,32.56,Table 2.1,23,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,State Highways,106682,41012,106485,23.13,24.34,24.02,Table 2.1,23,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Other Roads,202633,66441,192529,43.93,39.43,43.42,Table 2.1,23,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,National Highways,150177,63112,143031,31.25,36.5,30.9,Table 2.1,23,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,State Highways,105662,39439,107120,21.99,22.81,23.14,Table 2.1,23,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Other Roads,224744,70339,212674,46.76,40.68,45.95,Table 2.1,23,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf

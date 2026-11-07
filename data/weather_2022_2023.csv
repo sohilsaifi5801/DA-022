@@ -1,0 +1,11 @@
+year,weather_condition,accidents,persons_killed,persons_injured,accident_share_pct,killed_share_pct,injured_share_pct,source_table,source_page,source_url
+2022,Sunny/clear,342516,119585,332586,74.25,70.97,75.01,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Rainy,38329,14773,36950,8.31,8.77,8.33,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Foggy and misty,34262,14583,30796,7.43,8.66,6.95,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Hail/sleet,4083,1871,3621,0.89,1.11,0.82,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Others,42122,17679,39413,9.13,10.49,8.89,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Sunny/clear,365865,125065,359074,76.13,72.34,77.58,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Rainy,37316,13734,36102,7.76,7.94,7.8,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Foggy and misty,34266,14617,30646,7.13,8.45,6.62,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Hail/sleet,3378,1516,3064,0.7,0.88,0.66,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Others,39758,17958,33939,8.27,10.39,7.33,Table 3.8,48,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf

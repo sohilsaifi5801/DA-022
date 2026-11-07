@@ -1,0 +1,21 @@
+year,severity_category,accidents,share_pct,source_table,source_page,source_url
+2019,Fatal accidents,145332,31.8,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2019,Grievous-injury accidents,151335,33.12,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2019,Minor-injury accidents,131555,28.79,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2019,Non-injury accidents,28737,6.29,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2020,Fatal accidents,127307,34.21,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2020,Grievous-injury accidents,112768,30.3,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2020,Minor-injury accidents,110314,29.64,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2020,Non-injury accidents,21792,5.86,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2021,Fatal accidents,142163,34.47,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2021,Grievous-injury accidents,126394,30.65,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2021,Minor-injury accidents,119633,29.01,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2021,Non-injury accidents,24242,5.88,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Fatal accidents,155781,33.77,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Grievous-injury accidents,143374,31.08,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Minor-injury accidents,135360,29.34,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,Non-injury accidents,26797,5.81,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Fatal accidents,160509,33.4,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Grievous-injury accidents,158576,33.0,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Minor-injury accidents,133848,27.85,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,Non-injury accidents,27650,5.75,Table 1.4,9,https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
