@@ -1,0 +1,6 @@
+year,total_accidents,fatal_accidents,persons_killed,persons_injured,source_table,source_page,source_url
+2019,456959,145332,158984,449360,Table 1.1 / Table 4.1 / Table 7.1,"6, 51, 92",https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2020,372181,127307,138383,346747,Table 1.1 / Table 4.1 / Table 7.1,"6, 51, 92",https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2021,412432,142163,153972,384448,Table 1.1 / Table 4.1 / Table 7.1,"6, 51, 92",https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2022,461312,155781,168491,443366,Table 1.1 / Table 4.1 / Table 7.1,"6, 51, 92",https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+2023,480583,160509,172890,462825,Table 1.1 / Table 4.1 / Table 7.1,"6, 51, 92",https://morth.nic.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
